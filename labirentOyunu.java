@@ -4,7 +4,7 @@
  * az hamle sayısı ile labirentin bitiş noktasına gelmektir .
  * @assigment 1.Proje
  * @date 04.12.2023-29.12.2023
- * @author Özlem Öztürk , ozlem.ozturk@stu.fsm.edu.tr
+ * @author Özlem Öztürk 
  */
 package Main;
 
